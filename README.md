@@ -1,1 +1,2 @@
 Este projeto tem como base fazer criação de tarefas, podendo etitá-las, mover entre os blocos e deletá-las. Possui alocação em memória local storage do browser, função "drag and drop" e além de ser totalmente responsivo. Esse projeto foi feito em HTML, CSS e Javascript, utilizando de manipulação do DOM, map, remove, delete, add e arrays.
+Confira esse projeto online ====> https://gpereira305.github.io/Lista-de-tarefas---CRUD/
